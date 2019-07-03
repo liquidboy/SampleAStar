@@ -1,0 +1,4 @@
+/src/.vs/*
+/src/PathFinding/.vs/*
+/src/PathFinding/bin/*
+/src/PathFinding/obj/*
